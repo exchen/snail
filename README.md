@@ -1,5 +1,5 @@
 # snail
-At snail's pace, a project to include many fatures
+At snail's pace, a project to include many technologies
 
 I plan to create a project exercising many of the following technologies:
 
